@@ -125,3 +125,6 @@ and optimal_month forecasting, are fed to the algorithm.
 - **Specifications**: [Python 3](https://www.python.org/download/releases/3.0/), [Flask 1.1](https://flask.palletsprojects.com/en/1.1.x/), [Angular 7.0](https://angular.io/)
 - **Platform** (training): [Google Colab](https://colab.research.google.com/)
 - **Open source libraries**: [Keras](https://keras.io/getting_started/), [Sklearn](https://scikit-learn.org/)
+
+## Documentation:
+Report link: [https://drive.google.com/file/d/1jC2qcenZeu5Zm6Kz52IhBKOEi3zqMrrM/view?usp=sharing]
