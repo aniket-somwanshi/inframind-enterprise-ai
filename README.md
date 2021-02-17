@@ -21,6 +21,8 @@ In my proposed solution, I have discovered 2 novel usecases:
 **2. Sell Optimization** (Customer retention)
 
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/a8Sp6CAd08Q/0.jpg)](https://www.youtube.com/watch?v=a8Sp6CAd08Q)
+
 
 # Match-Day Alerts
 ## 1. Introduction to use case
