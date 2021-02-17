@@ -126,4 +126,4 @@ and optimal_month forecasting, are fed to the algorithm.
 - **Platform** (training): [Google Colab](https://colab.research.google.com/)
 - **Open source libraries**: [Keras](https://keras.io/getting_started/), [Sklearn](https://scikit-learn.org/)
 
-###### Documentation: Report link: https://drive.google.com/file/d/1jC2qcenZeu5Zm6Kz52IhBKOEi3zqMrrM/view?usp=sharing
+###### Documentation Report link: https://drive.google.com/file/d/1jC2qcenZeu5Zm6Kz52IhBKOEi3zqMrrM/view?usp=sharing
