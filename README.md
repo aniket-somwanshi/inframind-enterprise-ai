@@ -20,9 +20,6 @@ In my proposed solution, I have discovered 2 novel usecases:
 
 **2. Sell Optimization** (Customer retention)
 
-## Complete walkthrough
-[![YT](https://github.com/aniket-somwanshi/inframind-enterprise-ai/blob/master/Resources/yt_preview.png)](https://www.youtube.com/watch?v=a8Sp6CAd08Q)
-
 # Match-Day Alerts
 ## 1. Introduction to use case
 Consider the use case of HotStar, a subscription based
